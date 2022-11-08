@@ -1,0 +1,28 @@
+{
+  "produits": [
+    {
+      "id": 2,
+      "nom": "Sofa",
+      "description": "Sofa en cuire",
+      "prix": "1500 $",
+      "catégorie": "Salon",
+      "image": "sofa.jpeg"
+    },
+    {
+      "id": 3,
+      "nom": "Table",
+      "description": "Table pour cuisine",
+      "prix": "800.99 $",
+      "catégorie": "Cuisine",
+      "image": "table.jpeg"
+    },
+    {
+      "id": 4,
+      "nom": "Lampe",
+      "description": " lampadaires",
+      "prix": "800.99 $",
+      "catégorie": "Salon",
+      "image": "lamp.jpeg"
+    }
+  ]
+}
